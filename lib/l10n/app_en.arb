@@ -1,0 +1,323 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current language"
+  },
+  "welcomeTitle": "Let's do it together!",
+  "@welcomeTitle": {
+    "description": "Let's do it together!"
+  },
+  "welcomeSubtitle1": "Send information on the facts of violations directly to the management of the Department of Education of Mangistau region.",
+  "@welcomeSubtitle1": {
+    "description": "Send information on the facts of violations directly to the management of the Department of Education of Mangistau region."
+  },
+  "welcomeSubtitle2": "You can add photos, audio and video files to your message. Keep track of performance.",
+  "@welcomeSubtitle2": {
+    "description": "You can add photos, audio and video files to your message. Keep track of performance."
+  },
+  "joinButton": "Join",
+  "@joinButton": {
+    "description": "Join"
+  },
+  "orDivider": "or",
+  "@orDivider": {
+    "description": "or"
+  },
+  "withoutSignIn": "Continue without registration",
+  "@withoutSignIn": {
+    "description": "Continue without registration"
+  },
+  "loginTitle": "Sign In",
+  "@loginTitle": {
+    "description": "Sign In"
+  },
+
+  "loginHint": "email",
+  "@loginHint": {
+    "description": "email"
+  },
+  "passwordHint": "password",
+  "@passwordHint": {
+    "description": "password"
+  },
+
+  "forgotPassword": "Forgot your password?",
+  "@forgotPassword": {
+    "description": "Forgot your password?"
+  },
+
+  "loginButton": "Sign In",
+  "@loginButton": {
+    "description": "Sign In"
+  },
+
+  "haveAcc": "Don't have an account?",
+  "@haveAcc": {
+    "description": "Don't have an account?"
+  },
+
+  "registrationButton": "Sign Up",
+  "@registrationButton": {
+    "description": "Sign Up"
+  },
+
+  "enterAddress": "Select address",
+  "@enterAddress": {
+    "description": "Select address"
+  },
+
+  "informationTitle": "Information",
+  "@informationTitle": {
+    "description": "Information"
+  },
+  "enterUserInfo": "Enter information",
+  "@enterUserInfo": {
+    "description": "Enter information"
+  },
+  "nameHint": "firstname",
+  "@nameHint": {
+    "description": "firstname"
+  },
+
+  "surnameHint": "lastname",
+  "@surnameHint": {
+    "description": "lastname"
+  },
+
+  "codeSent": "A code has been sent to you to verify your email.",
+  "@codeSent": {
+    "description": "A code has been sent to you to verify your email."
+  },
+
+  "verifyButton": "Verify",
+  "@verifyButton": {
+    "description": "Verify"
+  },
+
+  "createPasswordTitle": "Choose security password",
+  "@createPasswordTitle": {
+    "description": "Choose security password"
+  },
+
+  "successRegTitle": "Successful registration!",
+  "@successRegTitle": {
+    "description": "Successful registration!"
+  },
+
+  "changeLanguageHint": "Change language",
+  "@changeLanguageHint": {
+    "description": "Change language"
+  },
+
+  "personalStatements": "Statements",
+  "@personalStatements": {
+    "description": "Personal statements"
+  },
+
+  "personalInformation": "Personal information",
+  "@personalInformation": {
+    "description": "Personal information"
+  },
+
+  "hotlines": "Hotlines",
+  "@hotlines": {
+    "description": "Hotlines"
+  },
+
+  "aboutProject": "About",
+  "@aboutProject": {
+    "description": "About"
+  },
+
+  "agreement": "Agreement",
+  "@agreement": {
+    "description": "Agreement"
+  },
+
+  "exitButton": "Exit",
+  "@exitButton": {
+    "description": "Exit"
+  },
+
+  "fillEmail": "enter email",
+  "@fillEmail": {
+    "description": "enter email"
+  },
+  "fillName": "enter name",
+  "@fillName": {
+    "description": "enter name"
+  },
+
+  "fillSurname": "enter surname",
+  "@fillSurname": {
+    "description": "enter surname"
+  },
+
+  "fillPassword": "enter password",
+  "@fillPassword": {
+    "description": "enter password"
+  },
+
+  "incorrectEmail": "incorrect email",
+  "@incorrectEmail": {
+    "description": "incorrect email"
+  },
+
+  "longName": "long name",
+  "@longName": {
+    "description": "long name"
+  },
+
+  "longSurname": "long surname",
+  "@longSurname": {
+    "description": "long surname"
+  },
+
+  "minPassCharacter": "password length must be at least 8",
+  "@minPassCharacter": {
+    "description": "password length must be at least 8"
+  },
+  "incorrectPin": "Incorrect Pin-Code!",
+  "@incorrectPin": {
+    "description": "Incorrect Pin-Code!"
+  },
+  "unknownError": "Unknown Error!",
+  "@unknownError": {
+    "description": "Unknown Error!"
+  },
+  "creationDate": "Creation date",
+  "@creationDate": {
+    "description": "Creation date"
+  },
+  "statementType": "Type",
+  "@statementType": {
+    "description": "Type"
+  },
+  "organization": "Object",
+  "@organization": {
+    "description": "Object"
+  },
+  "status": "Status",
+  "@status": {
+    "description": "Status"
+  },
+
+  "warningAlert": "Warning",
+  "@warningAlert": {
+    "description": "Warning"
+  },
+  "deleteAlertContent": "Are you sure you want to delete this statement?",
+  "@deleteAlertContent": {
+    "description": "Are you sure you want to delete this statement?"
+  },
+  "cancelButton": "Cancel",
+  "@cancelButton": {
+    "description": "Cancel"
+  },
+  "confirmDelete": "Delete",
+  "@confirmDelete": {
+    "description": "Delete"
+  },
+
+  "successfulDeleted": "Successful deleted",
+  "@successfulDeleted": {
+    "description": "Successful deleted"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location"
+  },
+  "passwordRecovery": "Password recovery",
+  "@passwordRecovery": {
+    "description": "Password recovery"
+  },
+  "getNewPassToEmail": "Get a new password by email",
+  "@getNewPassToEmail": {
+    "description": "Get a new password by email"
+  },
+  "sendButton": "Send",
+  "@sendButton": {
+    "description": "Send"
+  },
+  "deleteUserAlert": "Do you really want to delete your account?",
+  "@deleteUserAlert": {
+    "description": "Do you really want to delete your account?"
+  },
+  "agreeCheckbox": "I accept the terms of the user agreement",
+  "@agreeCheckbox": {
+    "description": "I accept the terms of the user agreement"
+  },
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Continue"
+  },
+  "changePassword": "Change password",
+  "@changePassword": {
+    "description": "Change password"
+  },
+  "deleteAccount": "Delete account",
+  "@deleteAccount": {
+    "description": "Delete account"
+  },
+  "changeButton": "Change",
+  "@changeButton": {
+    "description": "Change"
+  },
+  "currentPassword": "current password",
+  "@currentPassword": {
+    "description": "Delete account"
+  },
+  "newPassword": "new password",
+  "@newPassword": {
+    "description": "new password"
+  },
+  "selectStatementType": "Select the type of statement",
+  "@selectStatementType": {
+    "description": "Select the type of statement"
+  },
+  "selectOrgType": "Educational organization",
+  "@selectOrgType": {
+    "description": "Educational organization"
+  },
+  "fillStatementData": "Write the title of the complaint and the full text. Add files if needed.",
+  "@fillStatementData": {
+    "description": "Write the title of the complaint and the full text. Add files if needed."
+  },
+  "topic": "Topic",
+  "@topic": {
+    "description": "Topic"
+  },
+  "statementText": "Statement text",
+  "@statementText": {
+    "description": "Statement text"
+  },
+
+  "successSent": "Successfully sent!",
+  "@successSent": {
+    "description": "Successfully sent!"
+  },
+  "newStatement": "New statement",
+  "@newStatement": {
+    "description": "New statement"
+  },
+  "signInToWrite": "Log in to add statements",
+  "@signInToWrite": {
+    "description": "Log in to add statements"
+  },
+  "fillAllLines": "Fill all lines",
+  "@fillAllLines": {
+    "description": "Fill all lines"
+  },
+  "emptyStatements": "You don't have a statement",
+  "@emptyStatements": {
+    "description": "You don't have a statement"
+  },
+  "maximumFilesCount": "You can attach a maximum of 3 files",
+  "@maximumFilesCount": {
+    "description": "You can attach a maximum of 3 files"
+  },
+  "holdToDelete": "Hold to delete",
+  "@holdToDelete": {
+    "description": "Hold to delete"
+  }
+}
